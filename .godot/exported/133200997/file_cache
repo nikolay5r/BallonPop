@@ -1,0 +1,12 @@
+res://scenes/balloon.tscn::19315e5eda75b815ba4914906b6bb2f8::1711465895::res://.godot/exported/133200997/export-3e6f38f3611b4dcb7c2b5318d66fcb49-balloon.scn
+res://scenes/loser_screen.tscn::e554e6ee48a8c2187726714636baafc7::1711465895::res://.godot/exported/133200997/export-0476fb47f568a2e219e1d3324cb5740d-loser_screen.scn
+res://scenes/world.tscn::353493bf4703fe66f7b212980af91106::1711465895::res://.godot/exported/133200997/export-6b9c1b1fd6ae6f795188dfdc89e222b0-world.scn
+res://scenes/saw_blade.tscn::1c65e980b4a4667f80aa8482a76768bf::1711465895::res://.godot/exported/133200997/export-8217d67ff723d9fd68893e25d710f294-saw_blade.scn
+res://scenes/saw_blade_telegraph.tscn::8844fe3d1d3098c95a7183d51e57a171::1711465895::res://.godot/exported/133200997/export-aa656b6fc42581eaf8ba5155ce58ae95-saw_blade_telegraph.scn
+res://scenes/transtion_screen.tscn::6cff14b52ca6180ac40f65305587f2ba::1711404850::res://.godot/exported/133200997/export-958b5e0af8e08b570ac3cfea488a05bf-transtion_screen.scn
+res://fonts/score.tres::7c2af05cc6aff353a60dbd8a60da78ab::1711465242::res://.godot/exported/133200997/export-7e776049dc3c65096327806a39ee63d8-score.res
+res://scenes/large_saw_blade.tscn::9127fc0f28103c91cf5ac5b93f6bc487::1711465895::res://.godot/exported/133200997/export-d9d5c110f00110e9f70afcc7cfa3da06-large_saw_blade.scn
+res://scenes/large_saw_blade_telegraph.tscn::81764929979c15df7ef3f761f5666107::1711465895::res://.godot/exported/133200997/export-5933d65e29de43820207f76c558fa895-large_saw_blade_telegraph.scn
+res://scenes/small_saw_blade_telegraph.tscn::c764d11322fb25e084227f835d21fc47::1711465895::res://.godot/exported/133200997/export-fc33401f42105b4de8c95e1d49e06104-small_saw_blade_telegraph.scn
+res://scenes/small_saw_blade.tscn::e399838a590c4f061232c9e414405bba::1711465895::res://.godot/exported/133200997/export-e578ba7ee73d0f44dae0a4b374ecba43-small_saw_blade.scn
+res://scenes/ui.tscn::87dc1b8434ae30eaeb913432432e76f3::1711463571::res://.godot/exported/133200997/export-9211dc52ac9df169ba4fe77cbc1dc833-ui.scn

@@ -1,0 +1,16 @@
+res://scenes/saw_blade_telegraph.tscn
+res://scenes/balloon.tscn
+res://scripts/balloon.gd
+res://scenes/world.tscn
+res://scenes/saw_blade.tscn
+res://scenes/loser_screen.tscn
+res://scripts/audio_manager.gd
+res://scripts/world.gd
+res://scripts/globals.gd
+res://scenes/ui.tscn
+res://fonts/score.tres
+res://scenes/large_saw_blade.tscn
+res://scripts/saw_blade_telegraph.gd
+res://scenes/large_saw_blade_telegraph.tscn
+res://scenes/small_saw_blade_telegraph.tscn
+res://scenes/small_saw_blade.tscn
