@@ -1,0 +1,31 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhhtg5o0sepim"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_0ecut"]
+font_size = 10
+font_color = Color(0.678431, 0.184314, 0.270588, 1)
+
+[node name="UI" type="CanvasLayer"]
+
+[node name="Score" type="Label" parent="."]
+offset_right = 48.0
+offset_bottom = 24.0
+size_flags_horizontal = 4
+text = "Score
+ 0"
+label_settings = SubResource("LabelSettings_0ecut")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="BestScore" type="Label" parent="."]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -48.0
+offset_bottom = 24.0
+grow_horizontal = 0
+size_flags_horizontal = 4
+text = "HighScore
+0"
+label_settings = SubResource("LabelSettings_0ecut")
+horizontal_alignment = 1
+vertical_alignment = 1

@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://b773h6lm66p24"]
+
+[ext_resource type="FontFile" uid="uid://c2s30q3lh6ec8" path="res://fonts/Minecraft.ttf" id="1_kpufq"]
+
+[resource]
+font = ExtResource("1_kpufq")
+font_size = 9
+font_color = Color(0.678431, 0.184314, 0.270588, 1)

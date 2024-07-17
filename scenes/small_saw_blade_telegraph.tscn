@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=3 uid="uid://b5wugh2664ccu"]
+
+[ext_resource type="PackedScene" uid="uid://cmlqrxnm2c1gt" path="res://scenes/saw_blade_telegraph.tscn" id="1_3jaku"]
+[ext_resource type="PackedScene" uid="uid://beaaqfi2nhv8v" path="res://scenes/small_saw_blade.tscn" id="2_gqjxm"]
+[ext_resource type="Texture2D" uid="uid://2b3idfewjje7" path="res://assets/small_saw_blade_telegraph.png" id="2_wo5ws"]
+
+[node name="SmallSawBladeTelegraph" instance=ExtResource("1_3jaku")]
+saw_scene = ExtResource("2_gqjxm")
+
+[node name="Sprite2D" parent="." index="0"]
+texture = ExtResource("2_wo5ws")
+
+[node name="ArrowSprite2D" parent="." index="1"]
+scale = Vector2(0.7, 0.7)
+offset = Vector2(16, 0)

@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=3 uid="uid://beaaqfi2nhv8v"]
+
+[ext_resource type="PackedScene" uid="uid://bkxuqxevoa2by" path="res://scenes/saw_blade.tscn" id="1_fn7xs"]
+[ext_resource type="Texture2D" uid="uid://d0fenmy7r6et5" path="res://assets/small_saw_blade.png" id="2_tau4o"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_wpp21"]
+radius = 4.0
+
+[node name="SmallSawBlade" instance=ExtResource("1_fn7xs")]
+
+[node name="Sprite2D" parent="." index="0"]
+texture = ExtResource("2_tau4o")
+
+[node name="CollisionShape2D" parent="." index="1"]
+shape = SubResource("CircleShape2D_wpp21")
